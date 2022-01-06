@@ -18,8 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # Hasil image : 
 ![hasil_1](/assets/images/1.jpg)
-![hasil_2_part_1](/assets/images/2.jpg)
-![hasil_2_part_1](/assets/images/3.jpg)
-![hasil_3](/assets/images/4.jpg)
-![hasil_4_part_1](/assets/images/5.jpg)
-![hasil_4_part_1](/assets/images/6.jpg)
+![hasil_2](/assets/images/2.jpg)
+![hasil_3](/assets/images/3.jpg)
+![hasil_4](/assets/images/4.jpg)
+![hasil_5](/assets/images/5.jpg)
+![hasil_6](/assets/images/6.jpg)
+![hasil_7](/assets/images/7.jpg)
+![hasil_8](/assets/images/8.jpg)
+![hasil_9](/assets/images/9.jpg)
