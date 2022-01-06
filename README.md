@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 # test-mobile-dev-kelasPintar
 
 # Hasil image : 
-![hasil_1](/assets/images/1.PNG)
-![hasil_2_part_1](/assets/images/2.PNG)
-![hasil_2_part_1](/assets/images/3.PNG)
-![hasil_3](/assets/images/4.PNG)
-![hasil_4_part_1](/assets/images/5.PNG)
-![hasil_4_part_1](/assets/images/6.PNG)
+![hasil_1](/assets/images/1.jpg)
+![hasil_2_part_1](/assets/images/2.jpg)
+![hasil_2_part_1](/assets/images/3.jpg)
+![hasil_3](/assets/images/4.jpg)
+![hasil_4_part_1](/assets/images/5.jpg)
+![hasil_4_part_1](/assets/images/6.jpg)
